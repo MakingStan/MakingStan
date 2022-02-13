@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MakingStan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning something
-- 💞️ I’m looking to 1234 hoedje van papier 5678
 - 📫 How to reach me Discord: Stan xD#7662
 
 <!---
