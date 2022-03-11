@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MakingStan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning something
+- 🌱 I’m currently learning Machine learning
 - 📫 How to reach me Discord: Stan xD#7662
 
 <!---
