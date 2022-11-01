@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MakingStan
-- 👀 I’m interested in programming
-- 🌱 I’m currently trying to learn graphics programming.
-- 📫 How to reach me Discord: Stan xD#7662
+- 👀 I’m interested in everything computer related.
+- 🌱 I’m currently learning how emulation works.
+- 📫 Discord: Stan xD#7662
 
 <!---
 MakingStan/MakingStan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
